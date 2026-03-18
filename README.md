@@ -1,6 +1,6 @@
 # python-learning-journey
 Hi, I'm Lakshay.
-I'm currently learning Python, Backend Development and AI to switch into a high-paying relevant development or support role. 
+I'm currently learning Python, Backend Development and AI to switch into a Backend Developer (Python) role. 
 
 ## Day 1
 1. Started Python basics
