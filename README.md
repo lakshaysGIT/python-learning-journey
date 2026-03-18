@@ -12,6 +12,6 @@ I'm currently learning Python, Backend Development and AI to switch into a high-
 3. Switch to high paying role
 
 ## Tech Stack (Learning)
-1. Pyhton
+1. Python
 2. FastAPI (coming soon)
 3. AI/ML (coming soon)
