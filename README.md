@@ -3,11 +3,11 @@ Hi, I'm Lakshay.
 I'm currently learning Python, Backend Development and AI to switch into a high-paying relevant development or support role. 
 
 ## Day 1
-1. Started Pyhton basics
+1. Started Python basics
 2. Learned variables and syntax
 
 ## Goal
-1. Become Backend Developer (Pyhton)
+1. Become Backend Developer (Python)
 2. Learn AI integration
 3. Switch to high paying role
 
