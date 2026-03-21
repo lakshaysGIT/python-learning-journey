@@ -6,6 +6,10 @@ I'm currently learning Python, Backend Development and AI to switch into a Backe
 1. Started Python basics
 2. Learned variables and syntax
 
+## Day 2
+1. Learned Hello World code
+2. Practiced variables,print and taking user inputs.
+
 ## Goal
 1. Become Backend Developer (Python)
 2. Learn AI integration
